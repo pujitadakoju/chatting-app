@@ -16,6 +16,3 @@ This project is essentially a custom-built **Personal Chat Dashboard** that I de
 
 I used **Bootstrap 5** to handle the heavy lifting for the layout and the dropdown functionality. For the custom look and feel—like the circular profile pictures, the specific chat bubble colors, and the sleek scrollbar—I wrote custom **CSS3**. I also pulled in **Font Awesome** for the icons to keep the UI looking modern.
 
----
-
-**Since the "Send" button is currently just a placeholder, would you like me to show you the JavaScript to make it actually post messages to the screen?**
